@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "\"this is webpack language-TW loader\"",
   "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -11,8 +14,18 @@
     "language",
     "language-tw-loader",
     "zh-TW",
-    "loader"
+    "loader",
+    "Simplified",
+    "traditional"
   ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maoxiaoquan/language-tw-loader.git"
+  },
   "author": "maoxiaoquan",
-  "license": "ISC"
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maoxiaoquan/language-tw-loader/issues"
+  },
+  "homepage": "https://github.com/maoxiaoquan/language-tw-loader#readme"
 }
