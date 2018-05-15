@@ -18,6 +18,8 @@
     "Simplified",
     "traditional"
   ],
+  "readme":"使用手册https://github.com/maoxiaoquan/language-tw-loader/blob/master/README.md",
+  "readmeFilename":"README.md",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/maoxiaoquan/language-tw-loader.git"
