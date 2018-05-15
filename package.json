@@ -1,6 +1,6 @@
 {
   "name": "language-tw-loader",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "\"this is webpack language-TW loader\"",
   "main": "index.js",
   "directories": {
