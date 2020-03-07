@@ -17,7 +17,7 @@ react
 
 ```
 {
-    test: /\.(js|.jsx)$/,
+    test: /\.(js|jsx)$/,
     loader: 'language-tw-loader',
 }
 ```
