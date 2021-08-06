@@ -3,6 +3,11 @@
 
 使用方法
 
+```
+npm i --save-dev language-tw-loader
+```
+
+
 vue
 
 ```
